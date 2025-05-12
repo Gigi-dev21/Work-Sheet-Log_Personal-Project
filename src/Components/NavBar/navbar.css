@@ -1,0 +1,51 @@
+.navbars {
+  padding: 20px 0px;
+  /* display: flex;
+  justify-content: end; */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.navbarDiv {
+  background-color: black;
+}
+.buttons {
+  display: flex;
+  gap: 50px;
+  background-color: none;
+}
+.buttons a {
+  color: white;
+  font-size: 1rem;
+
+  padding: 5px;
+}
+.buttons a:hover {
+  color: #974a85;
+}
+.homeIcon {
+  color: azure;
+  font-size: larger;
+}
+.homeIcon :hover {
+  color: #974a85;
+}
+.icons {
+  display: flex;
+  justify-content: space-around;
+}
+.loggedInButtons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  padding-top: 8px;
+}
+.avatar {
+  display: flex;
+  align-items: center;
+}
+.avatarIcon {
+  padding-right: 3px;
+}

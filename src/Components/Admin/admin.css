@@ -1,0 +1,96 @@
+.approveButton {
+  margin-right: 15px;
+}
+.admintable {
+  margin-top: 100px;
+  overflow: scroll;
+}
+
+.adminSideBarIcons {
+  display: none;
+}
+.errors {
+  color: red;
+}
+.lists Form.Control {
+  padding-top: 20px;
+}
+.form_control {
+  margin-top: 8px;
+}
+@media (min-width: 1090px) {
+  .adminSideBarIcons {
+    display: block;
+  }
+  .editIcon {
+    display: none !important;
+  }
+  .adminSideBar {
+    background-color: grey;
+    padding: 15px 0px;
+    position: fixed;
+    top: 80px;
+    bottom: 0;
+    color: white;
+  }
+}
+.sidebarPropertys {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.searchIcon {
+  margin-top: 50px;
+}
+.dateRange {
+  font-weight: bold;
+  text-align: center;
+}
+.statusButtons {
+  display: flex;
+}
+.searchIcon:hover {
+  color: blue;
+}
+.dflex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.blue {
+  background-color: #007bff;
+}
+.iconContanier {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.lists span {
+  font-weight: bold;
+}
+.EditForm {
+  display: none;
+}
+
+@keyframes blinkAnimation {
+  from {
+    background-color: white;
+  }
+  to {
+    background-color: #759acd;
+  }
+}
+.filetrIconDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* .lists {
+  animation: blinkAnimation 0.5s infinite alternate;
+} */
+.emialFilterIcon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

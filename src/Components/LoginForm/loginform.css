@@ -1,0 +1,32 @@
+.login_container {
+  /* background-color: rgb(223, 223, 226); */
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 250px;
+  border-radius: 20px;
+  border: 1px rgb(51, 3, 38) solid;
+  box-shadow: 0 0 10px #510e44;
+}
+.loginDiv {
+  max-width: 400px;
+  margin: 0 auto;
+  padding-top: 200px;
+}
+.employeeSignin {
+  padding: 10px;
+  /* max-width: 550px !important; */
+  margin: 0 auto;
+  align-items: center;
+  padding: 10px;
+  max-width: 550px !important;
+  margin: 0 auto;
+}
+
+.signin_box h1 {
+  font-size: 2.5rem;
+  font-family: "cursive";
+}
+/* .validations {
+  color: rgb(163, 24, 54);
+} */

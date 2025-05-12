@@ -1,0 +1,17 @@
+.employeHeader {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+.employeeDash {
+  margin-top: 120px;
+}
+.Blue {
+  color: rgb(30, 156, 234);
+}
