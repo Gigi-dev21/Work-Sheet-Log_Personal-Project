@@ -11,7 +11,7 @@
 
   <h3>Key features:</h3>
   <ul>
-    <li><strong>Employee functionality:</strong> Enter work hours, task descriptions, and dates.</li>
+    <li><strong>Employee functionality:</strong> Enter work hours and dates.</li>
     <li><strong>Admin functionality:</strong> Review, approve, or decline submitted logs. Admins can also edit or sort the work entries.</li>
   </ul>
   
