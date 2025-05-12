@@ -17,7 +17,7 @@
   
   <p>Built with <strong>React</strong>, <strong>Firebase</strong>, and <strong>Redux</strong> to provide real-time updates and smooth user experience.</p>
 
-  <p><a href="https://youtu.be/hHa1vx6ie6E" target="_blank">Watch Demo Video</a></p>
+  <p><a href="https://drive.google.com/file/d/1jdxl8PlSDsYjb25lIeUnR0IPwDBnPAF3/view?usp=drive_link" target="_blank">Watch Demo Video</a></p>
 </body>
 </html>
 
