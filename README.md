@@ -3,21 +3,57 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 </head>
 <body>
-  <h1>WorkSheet Log</h1>
-  <p>WorkSheet Log is a platform designed for both <strong>Admins</strong> and <strong>Employees</strong> to efficiently manage work logs. Employees can enter their <strong>work hours</strong>, <strong>tasks</strong>, and <strong>dates</strong>. Once submitted, <strong>Admins</strong> review and either <strong>approve</strong> or <strong>decline</strong> the entries. Additionally, <strong>Admins</strong> have the capability to <strong>edit</strong> or <strong>sort</strong> the work logs as necessary.</p>
+  <h1>📋 WorkSheet Log</h1>
 
-  <h3>Key features:</h3>
-  <ul>
-    <li><strong>Employee functionality:</strong> Enter work hours and dates.</li>
-    <li><strong>Admin functionality:</strong> Review, approve, or decline submitted logs. Admins can also edit or sort the work entries.</li>
-  </ul>
-  
-  <p>Built with <strong>React</strong>, <strong>Firebase</strong>, and <strong>Redux</strong> to provide real-time updates and smooth user experience.</p>
+  <!-- Introduction -->
+  <section>
+    <h2>📌 Overview</h2>
+    <p>
+      <strong>WorkSheet Log</strong> is a web platform designed to replace manual work tracking with an efficient digital solution. It allows 
+      <strong>Employees</strong> 👷‍♂️ to log their daily hours and tasks, and <strong>Admins</strong> 🧑‍💼 to manage and monitor submissions with ease.
+    </p>
+  </section>
 
-  <p><a href="https://drive.google.com/file/d/1jdxl8PlSDsYjb25lIeUnR0IPwDBnPAF3/view?usp=drive_link" target="_blank">Watch Demo Video</a></p>
+  <!-- Features -->
+  <section>
+    <h2>✨ Features</h2>
+    <h3>👷‍♂️ Employee Functionality</h3>
+    <ul>
+      <li>Enter daily work hours ⏰</li>
+      <li>Log specific tasks ✅</li>
+      <li>Select and save dates 📅</li>
+    </ul>
+    <h3>🧑‍💼 Admin Functionality</h3>
+    <ul>
+      <li>Review submitted logs 🔍</li>
+      <li>Approve ✔️ or decline ❌ entries</li>
+      <li>Edit user entries 📝</li>
+      <li>Sort logs by user or date 🔄</li>
+    </ul>
+  </section>
+
+  <!-- Tools -->
+  <section>
+    <h2>🛠️ Tools & Technologies Used</h2>
+    <ul>
+      <li><strong>React</strong> ⚛️ – Frontend framework</li>
+      <li><strong>Firebase</strong> 🔥 – Real-time database & authentication</li>
+      <li><strong>Redux</strong> 📦 – State management</li>
+    </ul>
+  </section>
+
+  <!-- Demo -->
+  <section>
+    <h2>🎥 Demo</h2>
+    <p>
+      Click below to watch the live demo showing how WorkSheet Log works in action:
+    </p>
+    <p>
+      👉 <a href="https://drive.google.com/file/d/1jdxl8PlSDsYjb25lIeUnR0IPwDBnPAF3/view?usp=drive_link" target="_blank">
+      Watch Demo Video</a>
+    </p>
+  </section>
 </body>
 </html>
-
