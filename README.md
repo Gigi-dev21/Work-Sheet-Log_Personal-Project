@@ -12,7 +12,7 @@
     <h2>📌 Overview</h2>
     <p>
       <strong>WorkSheet Log</strong> is a web platform designed to replace manual work tracking with an efficient digital solution. It allows 
-      <strong>Employees</strong> 👷‍♂️ to log their daily hours and tasks, and <strong>Admins</strong> 🧑‍💼 to manage and monitor submissions with ease.
+      <strong>Employees</strong>  to log their daily hours and tasks, and <strong>Admins</strong>  to manage and monitor submissions with ease.
     </p>
   </section>
 
